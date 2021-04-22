@@ -3,9 +3,9 @@ layout: home
 nav_exclude: true
 ---
 
-# Welcome to InterSystems Open Exchange documentation
+# Welcome to InterSystems Partner Directory documentation
 
-* [Join InterSystems Open Exchange](/join/)
+* [Join InterSystems Partner Directory](/join/)
 * [Setup your Profile](/profile/)
 * [Managing Solutions](/solutions/)
   * [Submit a Solution](/solutions/submit/)
