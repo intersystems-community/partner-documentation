@@ -1,7 +1,7 @@
-title: InterSystems Open Exchange
+title: InterSystems Partner Directory
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  InterSystems Open Exchange is an application gallery that presents solutions, tools, samples, frameworks, interfaces and adapters developed on InterSystems technologies
+  InterSystems Partner Directory is a gallery of applications, solutions, tools, interfaces and adapters built with InterSystems Data Platforms: InterSystems IRIS, Caché, Ensemble, HealthShare, InterSystems IRIS for Health or which help with development, deployment, management and performance tuning for the solutions on Big Data, AI and Machine Learning, Interoperability and Scalability, Health, Finance, Retail
 #baseurl: "/docs" # the subpath of your site, e.g. /blog
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "https://intersystems-community.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -16,7 +16,7 @@ remote_theme: pmarsceill/just-the-docs
 # plugins:
   # - jekyll-feed
 
-logo: "/assets/images/openexchange_logo.svg"
+logo: "/assets/images/partner_logo.svg"
 
 color_scheme: isc
 

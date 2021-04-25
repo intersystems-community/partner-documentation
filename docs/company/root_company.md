@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Company FAQ
+title: Managing Company
 permalink: /company/
-nav_order: 4
+nav_order: 3
 has_children: true
 ---
-## Company FAQ
+## Managing Company
