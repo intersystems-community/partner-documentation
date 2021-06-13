@@ -11,6 +11,7 @@ nav_exclude: true
   * [Company listing](/company/submit/)
   * [Services listing](/company/services/)
   * [Company members](/company/members/)
+  * [How to make your partner profile look perfect](/company/howtopartner/)
 * [Managing Solutions](/solutions/)
   * [Submit a Solution](/solutions/submit/)
   * [Update a Solution](/solutions/update/)
