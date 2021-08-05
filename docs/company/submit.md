@@ -7,7 +7,7 @@ parent: Managing Company
 ---
 # Listing and submission of your company
 
-<iframe width="600" height="345" src="https://www.youtube.com/embed/WaDUc5dSHhQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="380" src="https://www.youtube.com/embed/WaDUc5dSHhQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 You can start the listing 2 ways: 
 - by pressing the button ***Become a partner*** on the top menu
