@@ -2,7 +2,7 @@
 layout: default
 title: View analytics
 permalink: /solutions/analytics/
-nav_order: 2
+nav_order: 4
 parent: Managing Solutions
 ---
 
